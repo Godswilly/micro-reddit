@@ -1,24 +1,41 @@
-# README
+# micro-reddit (Active record model)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+In this project, I worked on the Rails Active Record Model, where I built models for users, posts, and comments with their validations and association.
 
-Things you may want to cover:
+## Built With
 
-* Ruby version
+- Ruby on Rails
+- Ruby
 
-* System dependencies
+# Getting Started
 
-* Configuration
+To get a local copy of the repository please run the following commands on your terminal:
 
-* Database creation
+```
+$ cd <folder>
+```
 
-* Database initialization
+~~~bash
+$ git clone https://github.com/Godswilly/micro-reddit.git
+$ cd micro-reddit
+$ bundle install 
+~~~
 
-* How to run the test suite
+# Author
 
-* Services (job queues, cache servers, search engines, etc.)
+👤 **Kalu Agu Kalu**
 
-* Deployment instructions
+- Github: [@Godswilly](https://github.com/Godswilly)
+- Linkedin: [Kalu Agu Kalu](https://www.linkedin.com/in/kalu-agu-kalu/)
+- Twitter: [@KaluAguKalu17](https://twitter.com/KaluAguKalu17)
+- Email: (kalu.agukalu@gmail.com)
 
-* ...
+
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+## Show your support
+
+⭐️ this project if you like it!
